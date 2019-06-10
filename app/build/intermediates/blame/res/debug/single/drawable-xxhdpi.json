@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "C:\\Gardensneed\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\ic_xbox.png",
+        "source": "C:\\Gardensneed\\app\\src\\main\\res\\drawable-xxhdpi\\ic_xbox.png"
+    },
+    {
+        "merged": "C:\\Gardensneed\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\ic_house.png",
+        "source": "C:\\Gardensneed\\app\\src\\main\\res\\drawable-xxhdpi\\ic_house.png"
+    },
+    {
+        "merged": "C:\\Gardensneed\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\ic_support.png",
+        "source": "C:\\Gardensneed\\app\\src\\main\\res\\drawable-xxhdpi\\ic_support.png"
+    },
+    {
+        "merged": "C:\\Gardensneed\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\ic_call.png",
+        "source": "C:\\Gardensneed\\app\\src\\main\\res\\drawable-xxhdpi\\ic_call.png"
+    }
+]

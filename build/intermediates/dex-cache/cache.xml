@@ -1,0 +1,329 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="C:\Users\Administrator\.android\build-cache\a20fae5cbf9a86c958d41a6ed79456816e5f4476\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="e51c2f662bb72419632af5192553c37e33890a99">
+        <dex dex="C:\Gardensneed\app\build\intermediates\pre-dexed\debug\classes_05a1ace30a08f4e29f5c47a1c341ff5adbc663c7.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Administrator\AppData\Local\Android\Sdk\extras\android\m2repository\com\android\support\support-annotations\25.2.0\support-annotations-25.2.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="4a5a82a027706397fff621b22fd6fa796e91d7c5">
+        <dex dex="C:\Gardensneed\app\build\intermediates\pre-dexed\debug\support-annotations-25.2.0_320eedaa2510ba9d414e459c0d4d5f15ae00ae31.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Administrator\.android\build-cache\e10a9069ebdadfd6ebb881111c10e9d95bdfd610\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="702d339bc0a81d21354cd7e2cf2b67225fa4a16c">
+        <dex dex="C:\Gardensneed\app\build\intermediates\pre-dexed\debug\classes_febe35cb2be1f4e03c957d1f634378a94ea45a9b.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Administrator\.android\build-cache\a20fae5cbf9a86c958d41a6ed79456816e5f4476\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="e51c2f662bb72419632af5192553c37e33890a99">
+        <dex dex="C:\Gardensneed\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_05a1ace30a08f4e29f5c47a1c341ff5adbc663c7\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Administrator\.android\build-cache\ff082a2f81ed0d138ecb4fde6a49e49865f5b6d8\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="fa0446a14ed5dd3725047d6399ffea771a564b30">
+        <dex dex="C:\Gardensneed\app\build\intermediates\pre-dexed\debug\classes_2ce6652a9d71888d25e9d16099bd476974549dcd.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Administrator\AppData\Local\Android\Sdk\extras\android\m2repository\com\android\support\support-annotations\25.2.0\support-annotations-25.2.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="4a5a82a027706397fff621b22fd6fa796e91d7c5">
+        <dex dex="C:\Gardensneed\app\build\intermediates\transforms\dex\debug\folders\1000\10\support-annotations-25.2.0_320eedaa2510ba9d414e459c0d4d5f15ae00ae31\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Administrator\.android\build-cache\e10a9069ebdadfd6ebb881111c10e9d95bdfd610\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="702d339bc0a81d21354cd7e2cf2b67225fa4a16c">
+        <dex dex="C:\Gardensneed\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_febe35cb2be1f4e03c957d1f634378a94ea45a9b\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Administrator\.android\build-cache\ff082a2f81ed0d138ecb4fde6a49e49865f5b6d8\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="fa0446a14ed5dd3725047d6399ffea771a564b30">
+        <dex dex="C:\Gardensneed\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_2ce6652a9d71888d25e9d16099bd476974549dcd\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Administrator\.gradle\caches\modules-2\files-2.1\com.github.bumptech.glide\glide\3.7.0\9e9eeaf9948ee4d6c3ab354e8dc14368f16994a4\glide-3.7.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="9e9eeaf9948ee4d6c3ab354e8dc14368f16994a4">
+        <dex dex="C:\Gardensneed\app\build\intermediates\transforms\dex\debug\folders\1000\10\glide-3.7.0_1f3ddf859a86296da03fddcf50d19f29d652df81\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Administrator\.android\build-cache\9b66a5e3288f29f825ea631718191b5965eceb83\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="b15c6ded887ad967e20bb335c1a121b253c04dce">
+        <dex dex="C:\Gardensneed\app\build\intermediates\pre-dexed\debug\classes_9fd8c37764c32b69241d73331725a92c8d128e9c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Administrator\.android\build-cache\2288a58240f11cfe6c4c681bbd1fb44a71cd2fb4\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="810f41e5b7fd99f196ebeabe865ba2c54e7e76dc">
+        <dex dex="C:\Gardensneed\app\build\intermediates\pre-dexed\debug\classes_359aadca57a1904b3a2840579940bb777779f3f7.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Administrator\.gradle\caches\modules-2\files-2.1\com.github.bumptech.glide\glide\3.7.0\9e9eeaf9948ee4d6c3ab354e8dc14368f16994a4\glide-3.7.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="9e9eeaf9948ee4d6c3ab354e8dc14368f16994a4">
+        <dex dex="C:\Gardensneed\app\build\intermediates\pre-dexed\debug\glide-3.7.0_1f3ddf859a86296da03fddcf50d19f29d652df81.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Administrator\.android\build-cache\9b66a5e3288f29f825ea631718191b5965eceb83\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="b15c6ded887ad967e20bb335c1a121b253c04dce">
+        <dex dex="C:\Gardensneed\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_9fd8c37764c32b69241d73331725a92c8d128e9c\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Administrator\.android\build-cache\2288a58240f11cfe6c4c681bbd1fb44a71cd2fb4\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="810f41e5b7fd99f196ebeabe865ba2c54e7e76dc">
+        <dex dex="C:\Gardensneed\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_359aadca57a1904b3a2840579940bb777779f3f7\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Administrator\.android\build-cache\8af983b8c22b6c64291599711ba6dc35a6f52737\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="2cd4b982617e544728de0782d718a58ce1b06e3f">
+        <dex dex="C:\Gardensneed\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_8cbf111a6be8d5c6fd075f96a0ab12a305c48dd3\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Gardensneed\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="3be78ebc2706b2e1fe2f12d5726887a92d6c183b">
+        <dex dex="C:\Gardensneed\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run_f55a8bd4d05542423f8d1c8387462d9a56e9f527\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Administrator\.android\build-cache\8af983b8c22b6c64291599711ba6dc35a6f52737\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="2cd4b982617e544728de0782d718a58ce1b06e3f">
+        <dex dex="C:\Gardensneed\app\build\intermediates\pre-dexed\debug\classes_8cbf111a6be8d5c6fd075f96a0ab12a305c48dd3.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Administrator\.android\build-cache\56bc7848de7619eb043c099955b24c454febf6df\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="e820b7be8c035dd522da4bc822e8a76c8e27921a">
+        <dex dex="C:\Gardensneed\app\build\intermediates\pre-dexed\debug\classes_0f02e2a9e7468a0de8796c810b6bcde2bb77776d.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Administrator\.android\build-cache\56bc7848de7619eb043c099955b24c454febf6df\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="e820b7be8c035dd522da4bc822e8a76c8e27921a">
+        <dex dex="C:\Gardensneed\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_0f02e2a9e7468a0de8796c810b6bcde2bb77776d\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Administrator\.android\build-cache\8bc2996fd4a04f38e73efe93d1f4b186d6cb2e02\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="ee394a892dd21c03a528139c1e8d4e0e1264ac84">
+        <dex dex="C:\Gardensneed\app\build\intermediates\pre-dexed\debug\classes_16356f6a7e376ec128a63875e7eb55f7674785d8.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Administrator\.android\build-cache\8bc2996fd4a04f38e73efe93d1f4b186d6cb2e02\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="ee394a892dd21c03a528139c1e8d4e0e1264ac84">
+        <dex dex="C:\Gardensneed\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_16356f6a7e376ec128a63875e7eb55f7674785d8\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Administrator\.gradle\caches\modules-2\files-2.1\com.android.support.constraint\constraint-layout-solver\1.1.3\bde0667d7414c16ed62d3cfe993cff7f9d732373\constraint-layout-solver-1.1.3.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="bde0667d7414c16ed62d3cfe993cff7f9d732373">
+        <dex dex="C:\Gardensneed\app\build\intermediates\pre-dexed\debug\constraint-layout-solver-1.1.3_10da21a9d49c1a6ab330348bb8f50dc8b27420bd.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Administrator\.gradle\caches\modules-2\files-2.1\com.android.support.constraint\constraint-layout-solver\1.1.3\bde0667d7414c16ed62d3cfe993cff7f9d732373\constraint-layout-solver-1.1.3.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="bde0667d7414c16ed62d3cfe993cff7f9d732373">
+        <dex dex="C:\Gardensneed\app\build\intermediates\transforms\dex\debug\folders\1000\10\constraint-layout-solver-1.1.3_10da21a9d49c1a6ab330348bb8f50dc8b27420bd\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Administrator\.android\build-cache\593f5f51d6e37dbe9791874ec651dc7b3c6becd6\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="67eb33110dbacb46a48175b08ae0c96761d2c17d">
+        <dex dex="C:\Gardensneed\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_ee5089bd9fd7fcda9291778d6a846fb57f4c18cd\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Administrator\.android\build-cache\a714730d795cfe7d68a888560538b552fbb6eb1f\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="152de8da301561dcb0946471697a420d8f7a68c5">
+        <dex dex="C:\Gardensneed\app\build\intermediates\pre-dexed\debug\classes_3679251ff419badbcefcacfc5f4755181b83f6bc.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Administrator\.android\build-cache\d3eed2aca17448a0ac20fa276f2dc5bc2cb904b8\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="C:\Gardensneed\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_6a70f65b39aa856058b2b6d215cbbdd2b7bc58ba\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Administrator\.android\build-cache\a714730d795cfe7d68a888560538b552fbb6eb1f\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="152de8da301561dcb0946471697a420d8f7a68c5">
+        <dex dex="C:\Gardensneed\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_3679251ff419badbcefcacfc5f4755181b83f6bc\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Administrator\.android\build-cache\29b6a6ae1e219682a4d53350f7b380be00600c79\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="cb454b52545859ed2f24a6c01366805b0fa04b22">
+        <dex dex="C:\Gardensneed\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_08f9565dc07a42b13004d6867f0a4a61ec19a67d\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Administrator\.android\build-cache\593f5f51d6e37dbe9791874ec651dc7b3c6becd6\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="67eb33110dbacb46a48175b08ae0c96761d2c17d">
+        <dex dex="C:\Gardensneed\app\build\intermediates\pre-dexed\debug\classes_ee5089bd9fd7fcda9291778d6a846fb57f4c18cd.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Administrator\.android\build-cache\746ff247a728bba2287fc67aa3939308291f28e4\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="ea6a989b83d19b1b461281e0475a6cd6514897f8">
+        <dex dex="C:\Gardensneed\app\build\intermediates\pre-dexed\debug\classes_9a16971c8276fa01d11ce9b72c41e82e11b014cb.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Administrator\.android\build-cache\29b6a6ae1e219682a4d53350f7b380be00600c79\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="cb454b52545859ed2f24a6c01366805b0fa04b22">
+        <dex dex="C:\Gardensneed\app\build\intermediates\pre-dexed\debug\classes_08f9565dc07a42b13004d6867f0a4a61ec19a67d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Administrator\.android\build-cache\10786812ae7b2554f0536f948c65d19eb0f2b724\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="8fe8a8f77d651982ce5e18f6187dc4daf914ac57">
+        <dex dex="C:\Gardensneed\app\build\intermediates\pre-dexed\debug\classes_8c816f78d9d9642c5b026b6962e1c72ad6b3d70f.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Administrator\.android\build-cache\10786812ae7b2554f0536f948c65d19eb0f2b724\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="8fe8a8f77d651982ce5e18f6187dc4daf914ac57">
+        <dex dex="C:\Gardensneed\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_8c816f78d9d9642c5b026b6962e1c72ad6b3d70f\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Administrator\.android\build-cache\746ff247a728bba2287fc67aa3939308291f28e4\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="ea6a989b83d19b1b461281e0475a6cd6514897f8">
+        <dex dex="C:\Gardensneed\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_9a16971c8276fa01d11ce9b72c41e82e11b014cb\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Gardensneed\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="1ea9aa395d6fb534ce741e615803bd4a9bab697a">
+        <dex dex="C:\Gardensneed\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run-bootstrap_999c3b26fefd270056b3c7aa77146ed6a908e2a9\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Administrator\.android\build-cache\d3eed2aca17448a0ac20fa276f2dc5bc2cb904b8\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="C:\Gardensneed\app\build\intermediates\pre-dexed\debug\classes_6a70f65b39aa856058b2b6d215cbbdd2b7bc58ba.jar" />
+    </item>
+
+</items>

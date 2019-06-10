@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:orientation="horizontal"
+    android:layout_width="match_parent"
+    android:layout_height="170dp"
+    android:gravity="center">
+
+    <ImageView
+        android:id="@+id/iv_productDetail"
+        android:layout_width="150dp"
+        android:layout_height="150dp"
+        android:background="#FFFFFF"
+        android:layout_centerVertical="true"
+        android:layout_marginLeft="10dp"/>
+
+   <LinearLayout
+       android:id="@+id/ll_product"
+       android:layout_width="match_parent"
+       android:layout_height="150dp"
+       android:orientation="vertical"
+       android:layout_marginLeft="10dp"
+       android:layout_marginRight="10dp"
+       android:gravity="center_vertical"
+       android:layout_centerVertical="true"
+       android:layout_toRightOf="@+id/iv_productDetail">
+
+       <TextView
+           android:id="@+id/tv_productTitle"
+           android:layout_width="wrap_content"
+           android:layout_height="wrap_content"
+           android:textColor="@android:color/black"
+           android:textStyle="bold"
+           android:textSize="15sp"
+           android:gravity="start"
+           android:layout_marginRight="35dp"/>
+
+       <TextView
+           android:id="@+id/tv_productDesc"
+           android:layout_width="wrap_content"
+           android:layout_height="wrap_content"
+           android:textColor="@android:color/black"
+           android:textSize="15sp"
+           android:gravity="start"
+           android:visibility="gone"
+           android:layout_marginRight="35dp" />
+
+   </LinearLayout>
+
+    <android.support.v7.widget.AppCompatCheckBox
+        android:id="@+id/cb_productDetail"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentRight="true"
+        android:layout_alignParentTop="true"
+        app:buttonTint="@android:color/darker_gray"/>
+
+    <View
+        android:layout_width="match_parent"
+        android:layout_height="1dp"
+        android:background="@android:color/darker_gray"
+        android:layout_alignParentBottom="true"/>
+
+</RelativeLayout>

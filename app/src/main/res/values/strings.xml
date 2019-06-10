@@ -1,0 +1,52 @@
+<resources>
+    <string name="app_name">Gardens Need</string>
+    <string name="title_activity_home_screen">Gardens Need</string>
+
+    <string name="dev_site"><a>zoomhkg.com</a></string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="action_settings">Settings</string>
+
+    <string name="home">Home</string>
+    <string name="category">Categories</string>
+
+    <string name="website_name">http://www.gardensneed.com/</string>
+
+    <!--About Us-->
+    <string name="about_us">About Us</string>
+    <string name="about_para_1">We are into plastic planters business for over 20 years, running one of the most successful flower pots business across India and Abroad. At gardens Need, we are a Manufacturer, supplier, Exporter and Trader of high quality garden products that includes Fancy Planters, Nursery Planters, Coco Planters, Iron Pots, Iron Planters, Roto Planters, Solor Light, Water Cane, Water Spray, Plastic Planters, Hanging Baskets, Bottom Plates, Nursery Poly Bags, Gardening Accessories and Window Planters. We are the leading brand in planters and plastic flower pots business – we have customers in all cities.</string>
+    <string name="about_para_2">We are the leading brand in planters and plastic flower pots business – we have customers in all cities. Our line of flower pots is designed to help grow stunning displays of annuals or perennials. Because flower gardeners know that container plants have special needs, we have developed self-watering, durable planters that help your flowers thrive. gardens need seeks to build the most customer-centric online destination for customers to find and discover virtually anything they want to buy online by giving them more of what they want – vast selection, low prices, fast and reliable delivery, and a trusted and convenient experience; and provide sellers with a world-class products.</string>
+
+    <!--Contact Us-->
+    <string name="contact_us">Contact Us</string>
+    <string name="admin_address">B - 44, Double story quarters, Idgah road, New Delhi - 110006, India</string>
+    <string name="admin_mob">+91\-9899471123</string>
+    <string name="admin_email">info@malhotraplastics.com</string>
+    <string name="mob">Mobile</string>
+    <string name="em">Email</string>
+    <string name="add">Address</string>
+
+    <!--Enquiry-->
+    <string name="enquiry">Enquiry</string>
+    <string name="subject">Subject</string>
+    <string name="name">Name</string>
+    <string name="email">Email</string>
+    <string name="phone">Phone</string>
+    <string name="your_message">Your Message</string>
+    <string name="send">Send</string>
+
+    <!--Validation Messages-->
+    <string name="msg_failed_to_load">Failed to load data. Please try again later</string>
+
+    <string name="msg_blank_subject">Enter subject first</string>
+    <string name="msg_blank_name">Enter name first</string>
+    <string name="msg_blank_email">Enter email first</string>
+    <string name="msg_blank_phone">Enter phone first</string>
+    <string name="msg_blank_message">Enter message first</string>
+
+    <string name="msg_email">Enter a valid email address</string>
+    <string name="msg_phone">Enter a valid mobile number</string>
+
+</resources>

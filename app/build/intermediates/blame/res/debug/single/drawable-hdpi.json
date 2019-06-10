@@ -1,0 +1,30 @@
+[
+    {
+        "merged": "C:\\Gardensneed\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\ic_house.png",
+        "source": "C:\\Gardensneed\\app\\src\\main\\res\\drawable-hdpi\\ic_house.png"
+    },
+    {
+        "merged": "C:\\Gardensneed\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\enquiry_large.png",
+        "source": "C:\\Gardensneed\\app\\src\\main\\res\\drawable-hdpi\\enquiry_large.png"
+    },
+    {
+        "merged": "C:\\Gardensneed\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\ic_call.png",
+        "source": "C:\\Gardensneed\\app\\src\\main\\res\\drawable-hdpi\\ic_call.png"
+    },
+    {
+        "merged": "C:\\Gardensneed\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\map_min.png",
+        "source": "C:\\Gardensneed\\app\\src\\main\\res\\drawable-hdpi\\map_min.png"
+    },
+    {
+        "merged": "C:\\Gardensneed\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\ic_xbox.png",
+        "source": "C:\\Gardensneed\\app\\src\\main\\res\\drawable-hdpi\\ic_xbox.png"
+    },
+    {
+        "merged": "C:\\Gardensneed\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\map.png",
+        "source": "C:\\Gardensneed\\app\\src\\main\\res\\drawable-hdpi\\map.png"
+    },
+    {
+        "merged": "C:\\Gardensneed\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\ic_support.png",
+        "source": "C:\\Gardensneed\\app\\src\\main\\res\\drawable-hdpi\\ic_support.png"
+    }
+]

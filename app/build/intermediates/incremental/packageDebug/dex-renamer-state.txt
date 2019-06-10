@@ -1,0 +1,7 @@
+#Sun Jun 09 20:03:35 IST 2019
+base.0=C\:\\Gardensneed\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run-bootstrap_999c3b26fefd270056b3c7aa77146ed6a908e2a9
+renamed.1=classes2.dex
+renamed.0=classes.dex
+file.1=C\:\\Gardensneed\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run_f55a8bd4d05542423f8d1c8387462d9a56e9f527\\classes.dex
+base.1=C\:\\Gardensneed\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run_f55a8bd4d05542423f8d1c8387462d9a56e9f527
+file.0=C\:\\Gardensneed\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run-bootstrap_999c3b26fefd270056b3c7aa77146ed6a908e2a9\\classes.dex
