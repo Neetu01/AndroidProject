@@ -1,5 +1,13 @@
 [
     {
+        "merged": "E:\\Android\\Freelance\\AndroidProject\\app\\build\\intermediates\\res\\merged\\debug\\color-v11\\abc_background_cache_hint_selector_material_light.xml",
+        "source": "C:\\Users\\killer Bee\\.android\\build-cache\\adfa5404d6ba4c7c53c3942e8c6dcc44c9e8a50d\\output\\res\\color-v11\\abc_background_cache_hint_selector_material_light.xml"
+    },
+    {
+        "merged": "E:\\Android\\Freelance\\AndroidProject\\app\\build\\intermediates\\res\\merged\\debug\\color-v11\\abc_background_cache_hint_selector_material_dark.xml",
+        "source": "C:\\Users\\killer Bee\\.android\\build-cache\\adfa5404d6ba4c7c53c3942e8c6dcc44c9e8a50d\\output\\res\\color-v11\\abc_background_cache_hint_selector_material_dark.xml"
+    },
+    {
         "merged": "C:\\Gardensneed\\app\\build\\intermediates\\res\\merged\\debug\\color-v11\\abc_background_cache_hint_selector_material_light.xml",
         "source": "C:\\Users\\Administrator\\.android\\build-cache\\e10a9069ebdadfd6ebb881111c10e9d95bdfd610\\output\\res\\color-v11\\abc_background_cache_hint_selector_material_light.xml"
     },

@@ -1,11 +1,23 @@
 [
     {
+        "merged": "E:\\Android\\Freelance\\AndroidProject\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\ic_house.png",
+        "source": "E:\\Android\\Freelance\\AndroidProject\\app\\src\\main\\res\\drawable-mdpi\\ic_house.png"
+    },
+    {
         "merged": "C:\\Gardensneed\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\ic_call.png",
         "source": "C:\\Gardensneed\\app\\src\\main\\res\\drawable-mdpi\\ic_call.png"
     },
     {
+        "merged": "E:\\Android\\Freelance\\AndroidProject\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\ic_xbox.png",
+        "source": "E:\\Android\\Freelance\\AndroidProject\\app\\src\\main\\res\\drawable-mdpi\\ic_xbox.png"
+    },
+    {
         "merged": "C:\\Gardensneed\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\ic_support.png",
         "source": "C:\\Gardensneed\\app\\src\\main\\res\\drawable-mdpi\\ic_support.png"
+    },
+    {
+        "merged": "E:\\Android\\Freelance\\AndroidProject\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\ic_support.png",
+        "source": "E:\\Android\\Freelance\\AndroidProject\\app\\src\\main\\res\\drawable-mdpi\\ic_support.png"
     },
     {
         "merged": "C:\\Gardensneed\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\ic_house.png",
@@ -14,5 +26,9 @@
     {
         "merged": "C:\\Gardensneed\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\ic_xbox.png",
         "source": "C:\\Gardensneed\\app\\src\\main\\res\\drawable-mdpi\\ic_xbox.png"
+    },
+    {
+        "merged": "E:\\Android\\Freelance\\AndroidProject\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\ic_call.png",
+        "source": "E:\\Android\\Freelance\\AndroidProject\\app\\src\\main\\res\\drawable-mdpi\\ic_call.png"
     }
 ]
